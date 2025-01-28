@@ -13,7 +13,7 @@ const Intro = () => {
           I'm<span className="introName"> Pluto</span>
           <br /> a Puppy
           <p className="introPara">
-            I'm a Shih Tzu dog and I'm 70 days old puppy. <br /> My hobbies are
+            I'm a Shih Tzu puppy and I'm 70 days old. <br /> My hobbies are
             hiding and biting everything I can get on my paws.
           </p>
         </span>
